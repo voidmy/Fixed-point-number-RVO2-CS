@@ -4,5 +4,5 @@ Fixed-point version of the rvo2 library
 
 原 RVO2 来源 https://github.com/snape/RVO2-CS.git
 原 定点 Math 库来源 https://github.com/JiepengTan/LockstepEngine.git
-
+clone 请给颗star
 请遵守相关原则
